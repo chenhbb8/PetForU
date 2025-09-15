@@ -1,0 +1,51 @@
+Name,Breed,Type,Score,ImagePath
+Penny,Peruvian,Guinea Pig,93%,images/penny.jpg
+Giz,Peruvian,Guinea Pig,93%,images/giz.jpg
+Ziw,Maine Coon,Cat,92%,images/ziw.jpg
+Misty,Bengal,Cat,91%,images/misty.jpg
+Milo,Siamese,Cat,90%,images/milo.jpg
+Squeaky,Dumbo Rat,Rat,89%,images/squeaky.jpg
+Luna,Ragdoll,Cat,89%,images/luna.jpg
+Sadie,Poodle,Dog,89%,images/sadie.jpg
+Tiger,British Shorthair,Cat,88%,images/tiger.jpg
+Peaches,Silkie,Guinea Pig,86%,images/peaches.jpg
+Zoe,Syrian Hamster,Hamster,86%,images/zoe.jpg
+Maggie,Cockatoo,Parrot,86%,images/maggie.jpg
+Sunny,Macaw,Parrot,86%,images/sunny.jpg
+Windy,Macaw,Parrot,86%,images/windy.jpg
+Blue,Guppy,Fish,86%,images/blue.jpg
+Bubbles,Goldfish,Fish,86%,images/bubbles.jpg
+Whiskers,Fancy Rat,Rat,86%,images/whiskers.jpg
+Pumpkin,Winter White Hamster,Hamster,85%,images/pumpkin.jpg
+Spike,Bearded Dragon,Lizard,85%,images/spike.jpg
+Kiki,African Grey,Parrot,84%,images/kiki.jpg
+Ruby,Lovebird,Parrot,83%,images/ruby.jpg
+Shadow,Sphynx,Cat,83%,images/shadow.jpg
+Tango,Parakeet,Parrot,83%,images/tango.jpg
+Tiny,Campbell's  Hamster,Hamster,83%,images/tiny.jpg
+Slither,Ball Python,Snake,83%,images/slither.jpg
+Slit,Ball Python,Snake,83%,images/slit.jpg
+Flame,Leopard Gecko,Lizard,82%,images/flame.jpg
+Snowy,Netherland Dwarf,Rabbit,82%,images/snowy.jpg
+Peanut,Chinese Hamster,Hamster,81%,images/peanut.jpg
+Rocky,Roborovski Hamster,Hamster,81%,images/rocky.jpg
+Rock,Roborovski Hamster,Hamster,81%,images/rock.jpg
+Ginger,Shiba Inu,Dog,81%,images/ginger.jpg
+Loki,Oriental Shorthair,Cat,80%,images/loki.jpg
+Shelly,Red-eared Slider,Turtle,78%,images/shelly.jpg
+Coco,Conure,Parrot,78%,images/coco.jpg
+Basil,Corn Snake,Snake,78%,images/basil.jpg
+Gizmo,Abyssinian,Guinea Pig,78%,images/gizmo.jpg
+Cooper,Beagle,Dog,77%,images/cooper.jpg
+Dusty,Lop,Rabbit,76%,images/dusty.jpg
+Shelly,American,Guinea Pig,76%,images/shelly.jpg
+Bella,Beagle,Dog,76%,images/bella.jpg
+Tommy,Box Turtle,Turtle,75%,images/tommy.jpg
+Coop,Chihuahua,Dog,74%,images/coop.jpg
+Buddy,Labrador,Dog,73%,images/buddy.jpg
+Benny,Basset Hound,Dog,73%,images/benny.jpg
+Daisy,Bulldog,Dog,68%,images/daisy.jpg
+Nemo,Betta,Fish,67%,images/nemo.jpg
+Charlie,Golden Retriever,Dog,60%,images/charlie.jpg
+Spiky,Doberman,Dog,56%,images/spiky.jpg
+Max,Rottweiler,Dog,52%,images/max.jpg
